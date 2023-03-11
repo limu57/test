@@ -1,0 +1,3 @@
+import ramdom
+a = ramdom.ramdom
+print(a)
